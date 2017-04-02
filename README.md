@@ -1,6 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to **Robotic Lawn Mower BYO**
 
-You can use the [editor on GitHub](https://github.com/rlm41/rlm-uno/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###Why this project?
+
+Again it is spring time. It is getting warmer. Flowers are in blossom and the lawn is growing. 
+
+Lawning the mown takes time. Although one can automate this task.
+
+However using a commerical robots lawn mower causes troubles:
+
+- you need to put a wire around the border of you lawn
+- cost
+- additional infrastructure such as eletricity
+
+Hence here is what I need:
+- robotic self-sufficient lawn mower
+- can read the lawn and therefore does not need a wire
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
